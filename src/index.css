@@ -10,8 +10,10 @@
   --font-montaga: "Montaga", "sans-serif";
 
   --color-primary: #145d76;
+  --color-primary-50: #145d76;
   --color-primary-100: #068eb44d;
   --color-primary-200: #5a5a5a26;
+  --color-text-primary: #7d7d7d;
 
   --breakpoint-sm: 640px;
   --breakpoint-md: 768px;
@@ -166,4 +168,8 @@
     --sidebar-border: 240 3.7% 15.9%;
     --sidebar-ring: 217.2 91.2% 59.8%;
   }
+}
+
+.flex_center {
+  @apply flex items-center justify-center;
 }

@@ -4,7 +4,7 @@ import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
 import { IoMdMenu } from "react-icons/io";
 const NavBar = () => {
   return (
-    <div className="flex max-smflex-col max-sm:bg-primary-100 gap-20  items-center justify-center bg-gray-200 py-5">
+    <div className="flex z-50 max-smflex-col max-sm:bg-primary-100 gap-20  items-center justify-center bg-gray-200 py-5">
       <div className="min-w-[1164px]  bg-white flex justify-between px-10 items-center  rounded-full max-lg:hidden">
         <h1 className="font-italianno font-[400] text-[36px] ">
           {" "}

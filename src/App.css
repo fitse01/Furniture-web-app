@@ -1,1 +1,7 @@
-
+/* Removed invalid import statement */
+/* body {
+  background-color: rgb(241, 235, 235);
+} */
+.heroBg {
+  background-image: url("./assets/image/hero-bg.png");
+}
