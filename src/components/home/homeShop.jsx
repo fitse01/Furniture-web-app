@@ -1,4 +1,3 @@
-import React from "react";
 import shop from "@/assets/image/shop-img.png";
 
 const homeShop = () => {
